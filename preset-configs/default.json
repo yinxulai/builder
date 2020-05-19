@@ -21,7 +21,9 @@
       "transformer": "less",
       "config": {
         "options": {
-          "javascriptEnabled": true
+          "lessOptions": {
+            "javascriptEnabled": true
+          }
         }
       }
     },
